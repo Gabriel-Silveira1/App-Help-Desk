@@ -1,2 +1,2 @@
 # App-Help-Desk
-Web application to register and consult calls. You need to have XAMPP installed and activate the Apache and MySQL servers to open the index via localhost in your browser.
+Web application to register, consult, change and delete tickets. You need to have XAMPP installed to activate your Apache and MySQL servers to be able to open the index via localhost in your browser, in addition to having a source code editor installed.
